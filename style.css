@@ -26,8 +26,8 @@ nav {
 }
 
 .main-image img {
-    width: 1680px;
-    height: 670px;
+    max-width: 100%;
+    height: auto;
     
 }
 
